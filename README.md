@@ -1,6 +1,6 @@
 java-war-deploy-example
 =======================
-An example Java application that deploys an already-existing WAR file.
+An example Java application that deploys an already-existing WAR file. ##(POM SCM)
 
 Background
 ----------
